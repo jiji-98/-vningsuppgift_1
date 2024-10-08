@@ -22,19 +22,19 @@ a {
 }
 
 #husky {
-    background-image: url(husky.jpg);
+    background-image: url(husky\(kopia\).jpg);
     background-position: center;
     background-size: cover;
 }
 
 #golden {
-    background-image: url(golden.jpg);
+    background-image: url(golden\(kopia\).jpg);
     background-position: center;
     background-size: cover;
 }
 
 #pug {
-    background-image: url(pug.jpg);
+    background-image: url(pug\(kopia\).jpg);
     background-position: center;
     background-size: cover;
 }
