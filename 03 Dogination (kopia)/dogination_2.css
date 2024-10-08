@@ -20,3 +20,9 @@ a {
     flex-grow: 1;
     flex-basis: 0;
 }
+
+#husky {
+    background-image: url(husky.jpg);
+    background-position: center;
+    background-size: cover;
+}
