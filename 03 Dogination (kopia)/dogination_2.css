@@ -26,3 +26,9 @@ a {
     background-position: center;
     background-size: cover;
 }
+
+#golden {
+    background-image: url(golden.jpg);
+    background-position: center;
+    background-size: cover;
+}
