@@ -3,4 +3,8 @@ nav {
     border: 1px solid black;
     display: flex;
     flex-direction: column;
+    height: 450px;
+    padding: 30px;
+    box-sizing: border-box;
+    gap: 30px;
 }
